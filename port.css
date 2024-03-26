@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+header{
+    color:chartreuse;
+    background-color: darkcyan;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+pre{
+    background-color: cadetblue;
+    font-family: cursive;
+}
+.one{
+    color:coral;
+    font-family: cursive;
+}
+.two{
+    color:coral;
+}
+.three{
+    color: coral;
+}
+.four{
+    color: bisque;
+    font-family: cursive;
+}
+pre{
+    width: 610px;
+    height:100px;
+    background-color: darkcyan;
+    animation-name: examle;
+    animation-duration: 2s;
+}
+.habky{
+    border-image: fill;
+    border: 10px soliid grey;
+}
+.five{
+    text-align: left;
+    font-size: 25px;
+    color: crimson;
+}
+
