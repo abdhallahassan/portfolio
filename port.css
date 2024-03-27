@@ -33,12 +33,14 @@ pre{
     animation-duration: 2s;
 }
 .habky{
-    border-image: fill;
-    border: 10px soliid grey;
+    border-radius: 30%;
+    padding: 0%
+    float:right;
 }
 .five{
     text-align: left;
-    font-size: 25px;
+    font-size: 40px;
     color: crimson;
+    
 }
 
